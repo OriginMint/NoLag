@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "NoLag",
+    "name": "NoLag",
+    "description": "Disables rendering of cactus and string and fixes SkyLight bug",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://originmint.com/",
+    "updateUrl": "https://discord.originmint.com/",
+    "authorList": [
+      "ProZed"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

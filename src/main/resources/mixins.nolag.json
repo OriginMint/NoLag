@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.originmint.nolag.mixins",
+  "refmap": "mixins.nolag.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "WorldMixin"
+  ],
+  "client": [
+    "BlockRendererDispatcherMixin"
+  ],
+  "minVersion": "0.6"
+}
